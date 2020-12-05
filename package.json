@@ -1,0 +1,20 @@
+{
+  "name": "dates",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "Date apres 1000 jours et test avec Mocha",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sarino",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1"
+  }
+}
